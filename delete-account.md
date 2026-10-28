@@ -10,7 +10,7 @@ permalink: /delete-account
 
 # Delete your Dozelight account
 
-Dozelight is a sleep tracker by **Noronaru**. You only have a Dozelight account if you signed in with Google in **Settings → Connected apps**. If you never did, we hold no data about you: everything is on your phone, and uninstalling the app deletes it.
+Dozelight is a sleep tracker by **Noronaru**. You only have a Dozelight account if you signed in with Google at the top of **Settings**. If you never did, we hold no data about you: everything is on your phone, and uninstalling the app deletes it.
 
 **One account for Dozelight, Hydrorep and InnerWeather.** Our apps sign in with the same Google account and share one account. Deleting it in any of them deletes it for all of them, including InnerWeather's cloud backup of your journal and Hydrorep's cloud backup of your training.
 
@@ -18,7 +18,7 @@ Dozelight is a sleep tracker by **Noronaru**. You only have a Dozelight account 
 
 ## Delete it in the app
 
-1. Open Dozelight and go to **Settings → Connected apps → Manage account**.
+1. Open Dozelight, go to **Settings** and tap your account at the top.
 2. Tap **Delete account** and confirm.
 3. Choose your Google account once more to confirm it's you.
 

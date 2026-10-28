@@ -8,11 +8,12 @@ permalink: /terms-of-use
   Consumer protection law in Türkiye and the EU limits which disclaimers and liability limits
   are enforceable. Dozelight has no acceptance screen: these terms are linked from Settings →
   About and the Plus screen. Keep sections 2 and 7 in step with Hydrorep's and InnerWeather's.
+  Updated on 2026-10-28 for Plus on sale; publish it with the release that sells Plus.
 -->
 
 # Terms of Use
 
-**Effective date:** 2026-10-27
+**Effective date:** 2026-10-28
 
 These Terms of Use ("Terms") govern your use of the Dozelight app ("the app"), provided by **Noronaru** ("we", "us"). By using the app, you agree to these Terms. If you do not agree, please do not use the app.
 
@@ -38,20 +39,20 @@ The nights, notes and tags you create belong to you. They are stored on your pho
 
 Data the app reads from Health Connect comes from your phone and the devices you connect to it. We do not check it and are not responsible for its accuracy.
 
-## 5. Plus and ads
+## 5. Plus
 
-Plus is one optional subscription for Dozelight, Hydrorep and InnerWeather. Until it is on sale, watching a rewarded ad opens everything Plus adds in Dozelight for 24 hours on the phone where you watched it ("a Plus day"). Ads are provided by Google AdMob, and their availability is not guaranteed. We may change what Plus includes, and how a Plus day is opened, at any time.
+<!-- Lawyer review: Turkish distance-sales rules and EU consumer law on subscriptions, automatic
+     renewal, free trials and the right of withdrawal. -->
 
-<!-- Add when Plus goes on sale (lawyer review: Turkish distance-sales rules and EU consumer law
-     on subscriptions, automatic renewal, free trials and the right of withdrawal):
+Plus is one optional subscription for Dozelight, Hydrorep and InnerWeather.
 
-- Plus is sold through Google Play and belongs to your Google account, so it is on in all three apps.
-- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal;
-  Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
+- It is sold through Google Play and belongs to your Google account, so it is on in all three apps.
+- It renews automatically until you cancel it in Google Play. Cancelling stops the next renewal; Plus stays on until the end of the period you paid for. Deleting your account does not cancel it.
 - If a free trial is offered, it becomes a paid subscription unless you cancel before the trial ends.
-- Payment, refunds and cancellation are handled by Google Play under its terms.
+- Prices are shown in Google Play before you buy. Payment, refunds and cancellation are handled by Google Play under its terms.
 - We may change what Plus includes; we will tell you before any price change.
--->
+
+Everything Dozelight does without Plus stays free, with no ads.
 
 ## 6. Acceptable use
 
@@ -66,7 +67,7 @@ We may limit or block access if these rules are broken.
 
 ## 7. Third-party services
 
-The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, Health Connect, AdMob and Google Play), and on RevenueCat for Plus and Sentry for crash reports. Your use of those features is also subject to their terms and policies. Hydrorep and InnerWeather are separate apps with their own terms; sharing between our apps happens only when you turn it on.
+The app relies on services from Google (Firebase, Google Cloud, Google Sign-In, Health Connect and Google Play), and on RevenueCat for Plus and Sentry for crash reports. Your use of those features is also subject to their terms and policies. Hydrorep and InnerWeather are separate apps with their own terms; sharing between our apps happens only when you turn it on.
 
 ## 8. Changes to the app
 
